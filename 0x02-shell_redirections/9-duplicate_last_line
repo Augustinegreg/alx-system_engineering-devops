@@ -1,3 +1,2 @@
 #!/bin/bash
-echo 'German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
-indicate that events have passed a point of no return.' >> iacta
+echo 'Read more: https://en.wikipedia.org/wiki/Alea_iacta_est' >> iacta
