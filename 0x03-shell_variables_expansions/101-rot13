@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "ASCII" | tr rpub "NFPVV" | ge 'N-Mn-m' 'A-MN-Za-mn-z' | ebg13
+#!/#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
